@@ -1,6 +1,6 @@
 cask "pixtorium" do
-  version "0.6.1"
-  sha256 "56feb475a41c6f91ee82b5bb9941d6432708fdf05069ba54f2d374c03ed8b2fd"
+  version "0.7.0"
+  sha256 "9460e18eb9842c6e51b8208e3e2e4aee5c342235de9c2d964d50869b6ffd20d8"
 
   url "https://pixtorium.com/downloads/pixtorium-#{version}-macos-arm64.dmg"
   name "Pixtorium"
